@@ -1,4 +1,4 @@
-# Tarea_Pseudocodigo
+# Tarea_Pseudocodigo_Botilleria
 class Bottles {
 ##Atributos##
 
