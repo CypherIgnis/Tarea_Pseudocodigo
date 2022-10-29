@@ -1,4 +1,4 @@
-# Tarea_Pseudocodigo_Botilleria
+# Tarea_Pseudocodigo_Kiosko
 class Client {
 ##Atributos##
 
